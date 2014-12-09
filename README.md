@@ -1,4 +1,4 @@
-[journey-massage](heatherkjourneymassage.com)
+[Journey Massage](heatherkjourneymassage.com)
 ===============
 
 Masseuse Scheduling App
